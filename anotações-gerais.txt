@@ -1,0 +1,12 @@
+data-atributes = tipo uma classe ou um id onde eu posso selecionar uma tag atraves desse data-atribute que criei
+
+npm init -y
+assim iniciamos o npm no projeto. o -y e para aceitar todas as configurações padrões
+
+process.env.PORT 
+se nao pegar nanhuma variavel de ambiente chamada port, usa a 3000
+
+express meddleware
+coisas que interceptam a requisição
+
+map é uma função que todo aray tem e sempre retorna outro array
